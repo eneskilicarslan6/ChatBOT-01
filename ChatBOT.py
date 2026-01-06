@@ -202,4 +202,5 @@ temizle_dugme = ctk.CTkButton(dugme_cerceve, text="🗑 Temizle", command=temizl
 temizle_dugme.pack(side="left", padx=10)
 
 app.mainloop()
-##-------------------------This command is maded by CAYCLE  ~~  Finished on 15.05.2025 ~ 12.47------------------------##
+
+##----------------------------------------This command is maded by eneskilicarslan6 ~~  Finished on 15.05.2025 ~ 12.47------------------------------------------##
